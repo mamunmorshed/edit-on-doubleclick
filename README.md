@@ -1,5 +1,5 @@
 # edit-on-doubleclick
-A simple script to edit any text on double click.
+A simple script to edit any text on double click. <https://mamunmorshed.github.io/edit-on-doubleclick/>
 
 Link the script file to the project & call the function `doubleClickEdit`. Function accepts three parameter.
 
