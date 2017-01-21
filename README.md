@@ -11,3 +11,5 @@ Link the script file to the project & call the function `doubleClickEdit`. Funct
   
   *Third Parameter:* Pass the callback which will be feeded with the updated value on the element.
    
+
+**Note:** Currently an error is logged into the console while you press enter after editing an item. Becasue in the form elements submit event, call back is called & the form element destroyed. For that input elements blur eventlistener fail to set. Work in progress to fix that.
